@@ -372,11 +372,11 @@ public Room createRoom(String roomName, Player host) {
 
 ### PR 예시 모음
 
-> [Chore] 프로젝트 초기 세팅 <br>
-> [Feat] 프로필 화면 UI 구현 <br>
-> [Fix] iOS 17에서 버튼 클릭 오류 수정 <br>
-> [Design] 로그인 화면 레이아웃 조정 <br>
-> [Docs] README에 프로젝트 소개 추가 <br>
+> 🎉 [Chore] 프로젝트 초기 세팅 <br>
+> ✨ [Feat] 프로필 화면 UI 구현 <br>
+> 🐛 [Fix] iOS 17에서 버튼 클릭 오류 수정 <br>
+> 💄 [Design] 로그인 화면 레이아웃 조정 <br>
+> 📝 [Docs] README에 프로젝트 소개 추가 <br>
 
 <br>
 
