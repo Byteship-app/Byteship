@@ -1,0 +1,6 @@
+# CODEOWNERS 파일
+# 모든 파일과 폴더 변경 시 @jwon0523의 승인이 필요합니다.
+* @jwon0523
+
+# .github 폴더 전체 보호 (CODEOWNERS, PR 템플릿 등)
+/.github/ @jwon0523
