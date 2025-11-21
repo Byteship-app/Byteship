@@ -54,7 +54,7 @@ public class RoomView extends BaseFrame {
     }
 
     private JPanel createBackgroundPanel() {
-        ImageIcon backgroundImage = new ImageIcon(getClass().getResource("../images/gameroom.png"));
+        ImageIcon backgroundImage = new ImageIcon(getClass().getResource("../images/room.png"));
         JPanel backgroundPanel = new JPanel(new BorderLayout()) {
             @Override
             protected void paintComponent(Graphics graphics) {
